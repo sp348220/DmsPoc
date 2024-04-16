@@ -51,8 +51,9 @@
             <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
                 <div class="app-brand demo">
                     <a href="index.html" class="app-brand-link">
-                        <span class="fw-bolder ms-2">G.A.U.</span>
-                        <span class="fw-bolder ms-2">Document Management</span>
+                        <span class="fw-bolder ms-2">Shop Laptop</span>
+                        <br /><span class="fw-bolder ms-2">Used/New</span>
+                   
                     </a>
                 </div>
 
@@ -85,15 +86,15 @@
                             <li class="menu-header small text-uppercase"><span class="menu-header-text">Admin Operations</span></li>
                             <!-- Cards -->
                             <li class="menu-item">
-                                <a asp-controller="User" asp-action="Index" class="menu-link">
+                                <a asp-controller="EmployeeMaster" asp-action="Index" class="menu-link">
                                     <i class="menu-icon tf-icons bx bx-collection"></i>
-                                    <div data-i18n="Basic">User Operations</div>
+                                    <div data-i18n="Basic">Employee Master</div>
                                 </a>
                             </li>
                             <li class="menu-item">
-                                <a asp-controller="Department" asp-action="Index" class="menu-link">
+                                <a asp-controller="SupplierMaster" asp-action="Index" class="menu-link">
                                     <i class="menu-icon tf-icons bx bx-collection"></i>
-                                    <div data-i18n="Basic">Department Operations</div>
+                                    <div data-i18n="Basic">Supplier Master</div>
                                 </a>
                             </li>
                         }
@@ -139,7 +140,7 @@
                             <script>
                                 document.write(new Date().getFullYear());
                             </script>
-                            , coded by D.Darcan & A.Calci
+                            , coded by Sandeep Pandey
                         </div>
                     </div>
                 </footer>

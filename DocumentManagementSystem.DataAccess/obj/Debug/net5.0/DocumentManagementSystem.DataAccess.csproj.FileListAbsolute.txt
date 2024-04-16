@@ -58,3 +58,45 @@ C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\Docume
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.pdb
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.genruntimeconfig.cache
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\ref\DocumentManagementSystem.DataAccess.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.deps.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.runtimeconfig.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.runtimeconfig.dev.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.csproj.AssemblyReference.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.AssemblyInfoInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.AssemblyInfo.cs
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.sourcelink.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\Document.611AD12B.Up2Date
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\refint\DocumentManagementSystem.DataAccess.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.genruntimeconfig.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\ref\DocumentManagementSystem.DataAccess.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.deps.json
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.runtimeconfig.json
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.runtimeconfig.dev.json
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.csproj.AssemblyReference.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.AssemblyInfoInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.AssemblyInfo.cs
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.sourcelink.json
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\Document.611AD12B.Up2Date
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\refint\DocumentManagementSystem.DataAccess.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\DocumentManagementSystem.DataAccess.genruntimeconfig.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.DataAccess\obj\Debug\net5.0\ref\DocumentManagementSystem.DataAccess.dll

@@ -1,0 +1,128 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<DocumentListDto>
+@{
+    Layout = "_Layout";
+}
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+
+<div class="container-xxl flex-grow-1 container-p-y" id="customers">
+
+    <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">List of  /</span> Supplier Master</h4>
+    @if (User.IsInRole("Admin") || User.IsInRole("Moderator"))
+    {
+        <a class="btn btn-primary mb-4 m-lg-3" asp-action="Create">Add New Supplier</a>
+    }
+    <div class="card">
+
+        <div class="table-responsive text-nowrap">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                       
+    
+                        <th>Brand</th>
+                        <th>Model</th>
+                        <th>Processor</th>
+                        <th>Ram</th>
+                        <th>Storage</th>
+                        <th>Price Range</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td><strong>@item.Title</strong></td>
+                            <td>
+                                @item.TypeOfDoc
+                            </td>
+                            <td>
+                                @item.ClassOfDoc
+                            </td>
+                            <td>
+                                @item.DocState
+                            </td>
+                            <td>
+                                @item.SenderName
+                            </td>
+                            <td>
+                                @item.ReceiverName
+                            </td>
+                            <td><span class="badge bg-label-primary me-1">Available</span></td>
+                            @if (User.IsInRole("Admin") || User.IsInRole("Moderator"))
+                            {
+                                <td>
+                                    @* <div class="dropdown">
+                                        <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                            <i class="bx bx-dots-vertical-rounded"></i>
+                                        </button>
+                                        <div class="dropdown-menu">
+                                            <a class="dropdown-item" asp-controller="Home" asp-action="Edit" asp-route-id="@item.Id"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                            @if (User.IsInRole("Admin"))
+                                            {
+                                                <a class="dropdown-item" asp-controller="Home" asp-action="Delete" asp-route-id="@item.Id"><i class="bx bx-trash me-1"></i> Delete</a>
+                                            }
+                                        </div>
+
+                                    </div> *@
+
+                                    <a class="btn btn-primary" asp-controller="Customers" asp-action="CreateCustomer">Buy Now</a>
+                                
+
+                                </td>
+                            }
+                            else
+                            {
+                                <td>
+                                    <div class="dropdown">
+                                        <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                            <i class="bx bx-dots-vertical-rounded"></i>
+                                        </button>
+                                        <div class="dropdown-menu">
+                                            <a class="dropdown-item" asp-controller="Home" asp-action="Detail" asp-route-id="@item.Id"><i class="bx bx-edit-alt me-1"></i> Details</a>
+                                        </div>
+                                    </div>
+                                </td>
+                            }
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+<hr class="my-5" />

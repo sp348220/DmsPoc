@@ -34,3 +34,27 @@ C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\Docume
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\refint\DocumentManagementSystem.Common.dll
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.pdb
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\ref\DocumentManagementSystem.Common.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\bin\Debug\net5.0\DocumentManagementSystem.Common.deps.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\bin\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\bin\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.AssemblyInfoInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.AssemblyInfo.cs
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.csproj.CoreCompileInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.sourcelink.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\refint\DocumentManagementSystem.Common.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\ref\DocumentManagementSystem.Common.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\bin\Debug\net5.0\DocumentManagementSystem.Common.deps.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\bin\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\bin\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.AssemblyInfoInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.AssemblyInfo.cs
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.csproj.CoreCompileInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.sourcelink.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\refint\DocumentManagementSystem.Common.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Common\obj\Debug\net5.0\ref\DocumentManagementSystem.Common.dll

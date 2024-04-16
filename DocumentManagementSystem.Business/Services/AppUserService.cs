@@ -75,6 +75,7 @@ namespace DocumentManagementSystem.Business.Services
             if (validatonResult.IsValid)
             {
                 var user = await _uow.GetRepository<AppUser>().GetByFilterAsync(x => x.Username == dto.Username && x.Password == dto.Password);
+                //x: This represents a parameter of the lambda expression. It likely refers to an object of the type being filtered (possibly a user object).
                 if (user != null)
                 {
                     var appUserDto = _mapper.Map<AppUserListDto>(user);

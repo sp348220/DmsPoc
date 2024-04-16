@@ -16,3 +16,8 @@ namespace DocumentManagementSystem.Business.Interfaces
         Task<IResponse<List<AppRoleListDto>>> GetRolesByUserIdAsync(int userId);
     }
 }
+/*
+ Return Type: Task<IResponse<AppUserListDto>> is the return type of the method. 
+ It indicates that the method returns a Task object that, when completed, will produce an IResponse<AppUserListDto> result. 
+The Task<T> type represents an asynchronous operation that will produce a result of type T when completed.
+ */

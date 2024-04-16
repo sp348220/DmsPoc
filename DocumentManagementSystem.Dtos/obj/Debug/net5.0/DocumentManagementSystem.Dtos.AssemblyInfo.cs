@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocumentManagementSystem.Dtos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51a9bfea57276980b3b58fb047338751725e428")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocumentManagementSystem.Dtos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocumentManagementSystem.Dtos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

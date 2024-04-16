@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Create Customer";
+}
+
+<h2>Create Customer</h2>
+
+@using (Html.BeginForm("Create", "Customer", FormMethod.Post))
+{
+    <input type="text" id="Name" name="Name" class="form-control" placeholder="Name" />
+    <input type="text" id="Address" name="Address" class="form-control" placeholder="Address" />
+    <input type="text" id="MobileNumber" name="MobileNumber" class="form-control" placeholder="Mobile Number" />
+    <input type="text" id="Budget" name="Budget" class="form-control" placeholder="Budget" />
+
+    <input type="submit" value="Create" class="btn btn-primary" />
+}

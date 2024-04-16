@@ -1,4 +1,5 @@
 ﻿using DocumentManagementSystem.DataAccess.Interfaces;
+using DocumentManagementSystem.DataAccess.Repositories;
 using DocumentManagementSystem.Entities;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,7 @@ namespace DocumentManagementSystem.DataAccess.UnitOfWork
     public interface IUow
     {
         IRepository<T> GetRepository<T>() where T : BaseEntity;
+        
         Task SaveChangesAsync();
     }
 }

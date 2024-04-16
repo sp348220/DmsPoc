@@ -1,0 +1,85 @@
+﻿@model List<AppUserListDto>
+@{
+    Layout = "_Layout";
+}
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#deleteButton').click(function () {
+            var id = 30; // The ID of the employee to delete
+            $.ajax({
+                url: 'https://localhost:43152/api/Values/DeleteEmployee?Id=' + id,
+                type: 'DELETE',
+                success: function (result) {
+                    // Handle success response
+                    alert('Employee deleted successfully.');
+                    // Refresh the page or update UI as needed
+                },
+                error: function (xhr, status, error) {
+                    // Handle error response
+                    console.error('Error deleting employee:', error);
+                }
+            });
+        });
+    });
+</script>
+
+  
+   
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">List of  /</span> Employee Master</h4>
+    <div class="card">
+
+        <div class="table-responsive text-nowrap">
+            <div id="toastContainer"></div>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Username</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">
+                    @foreach (var user in Model)
+                    {
+                        <tr>
+                            <td><strong>@user.Id</strong></td>
+                            <td>@user.Username</td>
+                            <td>@user.FirstName</td>
+                            <td>@user.LastName</td>
+                            <td>
+                                <div class="dropdown">
+                                    <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                        <i class="bx bx-dots-vertical-rounded"></i>
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" asp-controller="User" asp-action="Update" asp-route-id="@user.Id"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                         <button class="dropdown-item" id="deleteButton"><i class="bx bx-trash me-1"></i>Delete</button> 
+                                        
+
+                                    </div>
+
+                                </div>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+    <!--/ Hoverable Table rows -->
+</div>
+<hr class="my-5" />
+@* <script>
+    document.getElementById("deleteButton").addEventListener("click", function () {
+        alert("This function is temporarily unavailable.");
+    });
+</script> *@

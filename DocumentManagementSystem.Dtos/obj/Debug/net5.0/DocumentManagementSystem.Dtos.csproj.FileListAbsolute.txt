@@ -43,3 +43,35 @@ C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\Docume
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\refint\DocumentManagementSystem.Dtos.dll
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.pdb
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\ref\DocumentManagementSystem.Dtos.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Dtos.deps.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Dtos.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Dtos.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.csproj.AssemblyReference.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.AssemblyInfoInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.AssemblyInfo.cs
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.csproj.CoreCompileInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.sourcelink.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\Document.F6F26F95.Up2Date
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\refint\DocumentManagementSystem.Dtos.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\ref\DocumentManagementSystem.Dtos.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Dtos.deps.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Dtos.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Dtos.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.csproj.AssemblyReference.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.AssemblyInfoInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.AssemblyInfo.cs
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.csproj.CoreCompileInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.sourcelink.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\Document.F6F26F95.Up2Date
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\refint\DocumentManagementSystem.Dtos.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\DocumentManagementSystem.Dtos.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Dtos\obj\Debug\net5.0\ref\DocumentManagementSystem.Dtos.dll

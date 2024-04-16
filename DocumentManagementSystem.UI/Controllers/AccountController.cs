@@ -24,6 +24,7 @@ namespace DocumentManagementSystem.UI.Controllers
         private readonly IDeparmentService _deparmentService;
         private readonly IValidator<UserCreateModel> _userCreateValidator;
         private readonly IAppUserService _appUserService;
+
         private readonly IMapper _mapper;
         private readonly DocumentContext _context;
 
@@ -70,13 +71,16 @@ namespace DocumentManagementSystem.UI.Controllers
         {
             return View();
         }
+        //Task<T>, T is a generic type parameter that represents the type of the result produced by the asynchronous operation when it completes.
         [HttpPost]
-        public async Task<IActionResult> SignIn(AppUserLoginDto dto)
+        public async Task<IActionResult> SignIn(AppUserLoginDto dto) /*Return Type: The method returns a Task<IActionResult>. This indicates that the method is asynchronous and will eventually produce an IActionResult result. 
+                                                                      * Task<T> represents an asynchronous operation that will produce a result of type T when completed. */
         {
             var result = await _appUserService.CheckUserAsync(dto);
             if (result.ResponseType == Common.ResponseType.Success)
             {
                 var roleResult = await _appUserService.GetRolesByUserIdAsync(result.Data.Id);
+                //The await operator is used in asynchronous methods to asynchronously wait for the completion of a task. 
                 var claims = new List<Claim>();
                 if (roleResult.ResponseType == Common.ResponseType.Success)
                 {
@@ -99,7 +103,7 @@ namespace DocumentManagementSystem.UI.Controllers
                     CookieAuthenticationDefaults.AuthenticationScheme,
                     new ClaimsPrincipal(claimsIdentity),
                     authProperties);
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Index", "SupplierMaster");
             }
             else
             {

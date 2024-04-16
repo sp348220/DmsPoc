@@ -34,3 +34,27 @@ C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\Docume
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\refint\DocumentManagementSystem.Entities.dll
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.pdb
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\ref\DocumentManagementSystem.Entities.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\bin\Debug\net5.0\DocumentManagementSystem.Entities.deps.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.AssemblyInfoInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.AssemblyInfo.cs
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.csproj.CoreCompileInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.sourcelink.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\refint\DocumentManagementSystem.Entities.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\ref\DocumentManagementSystem.Entities.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\bin\Debug\net5.0\DocumentManagementSystem.Entities.deps.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.AssemblyInfoInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.AssemblyInfo.cs
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.csproj.CoreCompileInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.sourcelink.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\refint\DocumentManagementSystem.Entities.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Entities\obj\Debug\net5.0\ref\DocumentManagementSystem.Entities.dll

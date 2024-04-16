@@ -61,3 +61,47 @@ C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\Docume
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\refint\DocumentManagementSystem.Business.dll
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.pdb
 C:\Users\deniz\OneDrive\Belgeler\Projects\.NET\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\ref\DocumentManagementSystem.Business.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Business.deps.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Business.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Business.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Dtos.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Dtos.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.csproj.AssemblyReference.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.AssemblyInfoInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.AssemblyInfo.cs
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.csproj.CoreCompileInputs.cache
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.sourcelink.json
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\Document.60C80304.Up2Date
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\refint\DocumentManagementSystem.Business.dll
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.pdb
+D:\New folder (2)\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\ref\DocumentManagementSystem.Business.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Business.deps.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Business.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Business.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Common.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Dtos.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Entities.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Common.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.DataAccess.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Dtos.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\bin\Debug\net5.0\DocumentManagementSystem.Entities.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.csproj.AssemblyReference.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.AssemblyInfoInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.AssemblyInfo.cs
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.csproj.CoreCompileInputs.cache
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.sourcelink.json
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\Document.60C80304.Up2Date
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\refint\DocumentManagementSystem.Business.dll
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\DocumentManagementSystem.Business.pdb
+D:\LapTop\document-management-system\DocumentManagementSystem.Business\obj\Debug\net5.0\ref\DocumentManagementSystem.Business.dll

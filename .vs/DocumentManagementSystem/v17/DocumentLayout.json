@@ -1,0 +1,1359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTop\\document-management-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\suppliermaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\suppliermaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Home\\Index.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Home\\Index.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\employeemaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\employeemaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\documentmanagementsystem.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\documentmanagementsystem.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\contexts\\documentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\contexts\\documentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\suppliermaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\suppliermaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|solutionrelative:documentmanagementsystem.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.entities\\suppliermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|solutionrelative:documentmanagementsystem.entities\\suppliermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.entities\\documentmanagementsystem.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|solutionrelative:documentmanagementsystem.entities\\documentmanagementsystem.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\suppliermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\suppliermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|solutionrelative:documentmanagementsystem.entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\models\\usercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\models\\usercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\models\\suppliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\models\\suppliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\appuserdtos\\appuserlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\appuserdtos\\appuserlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Employee\\Index.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Employee\\Index.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\documentmanagementsystem.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\documentmanagementsystem.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\interfaces\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\interfaces\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\employeedtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\employeedtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\documentmanagementsystem.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\documentmanagementsystem.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\helpers\\profilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\helpers\\profilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\employeedtos\\employeelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\employeedtos\\employeelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\departmentdtos\\departmentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\departmentdtos\\departmentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\employeedtos\\employeeupdatedto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\employeedtos\\employeeupdatedto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\appuserdtos\\appuserupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\appuserdtos\\appuserupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\departmentdtos\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\departmentdtos\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\interfaces\\iupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\interfaces\\iupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\interfaces\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\interfaces\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\interfaces\\ideparmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\interfaces\\ideparmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|solutionrelative:documentmanagementsystem.entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\departmentdtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\departmentdtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\unitofwork\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\unitofwork\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\configurations\\documentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\configurations\\documentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\configurations\\approleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\configurations\\approleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\migrations\\documentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\migrations\\documentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|solutionrelative:documentmanagementsystem.common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dataaccess\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84968F74-A0FC-4B62-90A9-78EFCB410D7B}|DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj|solutionrelative:documentmanagementsystem.dataaccess\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\documentdtos\\documentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\documentdtos\\documentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\documentdtos\\documentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\documentdtos\\documentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.dtos\\documentdtos\\documentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D819F7A3-CE62-4566-A104-248001FCA260}|DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj|solutionrelative:documentmanagementsystem.dtos\\documentdtos\\documentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.common\\customvalidationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|solutionrelative:documentmanagementsystem.common\\customvalidationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.common\\iresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|solutionrelative:documentmanagementsystem.common\\iresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.common\\iresponse{t}.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48DF665-FA61-4205-BDBB-E973FE8057D4}|DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj|solutionrelative:documentmanagementsystem.common\\iresponse{t}.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.business\\interfaces\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B198A15-F992-44A4-8B1B-708DD0401C92}|DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj|solutionrelative:documentmanagementsystem.business\\interfaces\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\mappings\\automapper\\usercreatemodelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\mappings\\automapper\\usercreatemodelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.ui\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5296A1-64A2-4238-A27C-B287B8735137}|DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj|solutionrelative:documentmanagementsystem.ui\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|d:\\laptop\\document-management-system\\documentmanagementsystem.entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6655656-742C-438E-92C5-5CBBF4CE3BA4}|DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj|solutionrelative:documentmanagementsystem.entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAWwDEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:26:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T10:29:23.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeMasterController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\EmployeeMasterController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\EmployeeMasterController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\EmployeeMasterController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\EmployeeMasterController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:28:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAADwv3gAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T08:18:20.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T14:44:32.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T11:08:54.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\SupplierMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\SupplierMaster\\Index.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\SupplierMaster\\Index.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\SupplierMaster\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T14:42:07.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:37:01.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.g.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Home\\Index.cshtml.g.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Home\\Index.cshtml.g.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Home\\Index.cshtml.g.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Home\\Index.cshtml.g.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAwwPMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:59:45.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Department\\Update.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Department\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T13:37:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T10:42:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentManagementSystem.UI.csproj",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\DocumentManagementSystem.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T17:57:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\EmployeeMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\EmployeeMaster\\Index.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\EmployeeMaster\\Index.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\EmployeeMaster\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T14:33:38.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T18:09:24.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\SupplierMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\SupplierMaster\\Create.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\SupplierMaster\\Create.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\SupplierMaster\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:21:32.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Entities\\Employee.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\Employee.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Entities\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:54:16.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DocumentContext.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Contexts\\DocumentContext.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Contexts\\DocumentContext.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Contexts\\DocumentContext.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Contexts\\DocumentContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:35:47.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:06:08.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:43:32.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupplierMaster.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\SupplierMaster.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Entities\\SupplierMaster.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\SupplierMaster.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Entities\\SupplierMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:00:27.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DocumentManagementSystem.Entities.csproj",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
+              "RelativeToolTip": "DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T10:26:45.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T08:18:20.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Startup.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Startup.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Startup.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Startup.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwFIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:29:12.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Services\\Service.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\Service.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Services\\Service.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:59:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:21:12.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:07:17.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:34:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupplierMasterController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\SupplierMasterController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\SupplierMasterController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\SupplierMasterController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\SupplierMasterController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:41:06.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T14:10:17.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\Department.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Entities\\Department.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\Department.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:01:20.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:42:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserCreateModel.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Models\\UserCreateModel.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Models\\UserCreateModel.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Models\\UserCreateModel.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Models\\UserCreateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:35:18.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SupplierModel.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Models\\SupplierModel.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Models\\SupplierModel.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Models\\SupplierModel.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Models\\SupplierModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:23:37.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T13:49:37.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Models\\EmployeeModel.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Models\\EmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:35:45.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ControllerExtensions.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Extensions\\ControllerExtensions.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Extensions\\ControllerExtensions.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Extensions\\ControllerExtensions.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Extensions\\ControllerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:14:14.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppUserListDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserListDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserListDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserListDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserListDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:29:06.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:57:53.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:16:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:43:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DocumentManagementSystem.Business.csproj",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T17:56:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:05:26.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Interfaces\\IDocumentService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IDocumentService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Interfaces\\IDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:36:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmployeeCreateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:59:59.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DocumentManagementSystem.Dtos.csproj",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T13:35:49.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProfileHelper.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Helpers\\ProfileHelper.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Helpers\\ProfileHelper.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Helpers\\ProfileHelper.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Helpers\\ProfileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:33:44.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AppUserCreateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserCreateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserCreateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserCreateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:29:19.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmployeeListDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeListDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeListDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeListDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:24:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Services\\DocumentService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\DocumentService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Services\\DocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:35:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmployeeUpdateDto .cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeUpdateDto .cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeUpdateDto .cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeUpdateDto .cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\EmployeeDtos\\EmployeeUpdateDto .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:23:36.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppUserUpdateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserUpdateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserUpdateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserUpdateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\AppUserDtos\\AppUserUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:28:27.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DepartmentListDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentListDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentListDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentListDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:57:31.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUpdateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\Interfaces\\IUpdateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\Interfaces\\IUpdateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\Interfaces\\IUpdateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\Interfaces\\IUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:02:34.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\Interfaces\\IDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\Interfaces\\IDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\Interfaces\\IDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\Interfaces\\IDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:02:25.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DepartmentUpdateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentUpdateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentUpdateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentUpdateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:57:40.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Interfaces\\IService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:41:08.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IDeparmentService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IDeparmentService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Interfaces\\IDeparmentService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IDeparmentService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Interfaces\\IDeparmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:44:28.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:25:11.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Entities\\Document.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\Document.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Entities\\Document.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:53:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\DepartmentDtos\\DepartmentCreateDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:57:21.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:17:15.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IUow.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\UnitOfWork\\IUow.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\UnitOfWork\\IUow.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\UnitOfWork\\IUow.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\UnitOfWork\\IUow.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:52:16.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DocumentConfiguration.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\DocumentConfiguration.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Configurations\\DocumentConfiguration.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\DocumentConfiguration.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Configurations\\DocumentConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:04:23.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AppRoleConfiguration.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\AppRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Configurations\\AppRoleConfiguration.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\AppRoleConfiguration.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Configurations\\AppRoleConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:37:14.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DocumentContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Migrations\\DocumentContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Migrations\\DocumentContextModelSnapshot.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Migrations\\DocumentContextModelSnapshot.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Migrations\\DocumentContextModelSnapshot.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:42:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AppUserService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\AppUserService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Services\\AppUserService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Services\\AppUserService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Services\\AppUserService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAUwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:32:57.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\Response.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Common\\Response.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\Response.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Common\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:47:08.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T18:10:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "DocumentManagementSystem.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:10:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DocumentUpdateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentUpdateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentUpdateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentUpdateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:57:56.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DocumentCreateDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentCreateDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentCreateDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentCreateDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentCreateDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:57:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DocumentListDto.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentListDto.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentListDto.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentListDto.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Dtos\\DocumentDtos\\DocumentListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:57:50.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CustomValidationError.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\CustomValidationError.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Common\\CustomValidationError.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\CustomValidationError.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Common\\CustomValidationError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:47:22.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IResponse.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\IResponse.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Common\\IResponse.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\IResponse.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Common\\IResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:47:16.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IResponse{T}.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\IResponse{T}.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Common\\IResponse{T}.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\IResponse{T}.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Common\\IResponse{T}.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:47:14.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IAppUserService.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IAppUserService.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Business\\Interfaces\\IAppUserService.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\Interfaces\\IAppUserService.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Business\\Interfaces\\IAppUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:44:34.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserCreateModelProfile.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Mappings\\AutoMapper\\UserCreateModelProfile.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Mappings\\AutoMapper\\UserCreateModelProfile.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Mappings\\AutoMapper\\UserCreateModelProfile.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Mappings\\AutoMapper\\UserCreateModelProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:24:00.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:28:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.Entities\\AppRole.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\AppRole.cs",
+              "RelativeToolTip": "DocumentManagementSystem.Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:20:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml.g.cs",
+              "DocumentMoniker": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Employee\\Index.cshtml.g.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Employee\\Index.cshtml.g.cs",
+              "ToolTip": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Employee\\Index.cshtml.g.cs",
+              "RelativeToolTip": "DocumentManagementSystem.UI\\obj\\Debug\\net5.0\\Razor\\Views\\Employee\\Index.cshtml.g.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAewDoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:58:27.554Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ec2ba637-7bce-4b18-b870-4ac7fd677d61",
+        "Display": 0,
+        "X": -36,
+        "Y": 116,
+        "Width": 1353,
+        "Height": 545,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-08T16:10:27.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,16 @@ namespace DocumentManagementSystem.DataAccess.Contexts
         {
 
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(
+                    "Data Source=DESKTOP-4J6IQKA\\SQLEXPRESS01;Initial Catalog=DocumentDb;Integrated Security=True;Trust Server Certificate=True;",
+                    b => b.MigrationsAssembly("DocumentManagementSystem.UI")); //Specify migrations assembly
+            }
+        }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -23,6 +33,7 @@ namespace DocumentManagementSystem.DataAccess.Contexts
             modelBuilder.ApplyConfiguration(new AppUserRoleConfiguration());
             modelBuilder.ApplyConfiguration(new DepartmentConfiguration());
             modelBuilder.ApplyConfiguration(new DocumentConfiguration());
+            modelBuilder.ApplyConfiguration(new EmployeeConfiguration());
 
 
 
@@ -32,6 +43,8 @@ namespace DocumentManagementSystem.DataAccess.Contexts
         public DbSet<AppUserRole> AppUserRoles { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Document> Documents { get; set; }
+        public  DbSet<Employee> EmployeeMaster { get; set; }
+     
 
 
     }

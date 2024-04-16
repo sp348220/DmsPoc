@@ -1,113 +1,133 @@
-﻿@model List<DocumentListDto>
-@{
+﻿@{
     Layout = "_Layout";
 }
 
-<form class="form-inline my-2 my-lg-0 m-4 row" asp-action="Index" asp-controller="Home" method="get">
-    <input class="form-control mr-sm-2 mt-3" type="search" placeholder="Search" aria-label="Search" name="search">
-    <select class="form-select mt-2" name="searchopt">
-        <option value="0" selected>Title of Doc</option>
-        <option value="1">Sender</option>
-        <option value="2">Receiver</option>
-        <option value="3">Type of Doc</option>
-        <option value="4">Class of Doc</option>
-    </select>
-    <select class="form-select mt-2" name="sortOption" placeholder="Sorting by...">
-        <option selected>Sort By</option>
-        <option value="title">Title</option>
-        <option value="type">Document Type</option>
-        <option value="status">Status</option>
-        <option value="state">State</option>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buy Used or New Laptop</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+        }
 
-    </select>
-    <button class="btn btn-outline-primary mt-3" type="submit">Search</button>
-</form>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-<div class="container-xxl flex-grow-1 container-p-y">
+        h1 {
+            color: #007bff;
+            text-align: center;
+        }
 
-    <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">List of  /</span> Documents</h4>
-    @if (User.IsInRole("Admin") || User.IsInRole("Moderator"))
-    {
-        <a class="btn btn-primary mb-4 m-lg-3" asp-action="Create">Add New Document</a>
-    }
-    <div class="card">
+        .call-section {
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
 
-        <div class="table-responsive text-nowrap">
-            <table class="table table-hover">
-                <thead>
-                    <tr>
-                        <th>Title</th>
-                        <th>Type</th>
-                        <th>Class</th>
-                        <th>State</th>
-                        <th>Sender</th>
-                        <th>Receiver</th>
-                        <th>Status</th>
-                        <th>Actions</th>
-                    </tr>
-                </thead>
-                <tbody class="table-border-bottom-0">
-                    @foreach (var item in Model)
-                    {
-                        <tr>
-                            <td><strong>@item.Title</strong></td>
-                            <td>
-                                @item.TypeOfDoc
-                            </td>
-                            <td>
-                                @item.ClassOfDoc
-                            </td>
-                            <td>
-                                @item.DocState
-                            </td>
-                            <td>
-                                @item.SenderName
-                            </td>
-                            <td>
-                                @item.ReceiverName
-                            </td>
-                            <td><span class="badge bg-label-primary me-1">@item.DocStatus</span></td>
-                            @if (User.IsInRole("Admin") || User.IsInRole("Moderator"))
-                            {
-                                <td>
-                                    <div class="dropdown">
-                                        <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
-                                            <i class="bx bx-dots-vertical-rounded"></i>
-                                        </button>
-                                        <div class="dropdown-menu">
-                                            <a class="dropdown-item" asp-controller="Home" asp-action="Edit" asp-route-id="@item.Id"><i class="bx bx-edit-alt me-1"></i> Edit</a>
-                                            @if (User.IsInRole("Admin"))
-                                            {
-                                                <a class="dropdown-item" asp-controller="Home" asp-action="Delete" asp-route-id="@item.Id"><i class="bx bx-trash me-1"></i> Delete</a>
-                                            }
-                                        </div>
+            .call-section p {
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
 
-                                    </div>
-                                </td>
-                            }
-                            else
-                            {
-                                <td>
-                                    <div class="dropdown">
-                                        <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
-                                            <i class="bx bx-dots-vertical-rounded"></i>
-                                        </button>
-                                        <div class="dropdown-menu">
-                                            <a class="dropdown-item" asp-controller="Home" asp-action="Detail" asp-route-id="@item.Id"><i class="bx bx-edit-alt me-1"></i> Details</a>
-                                        </div>
-                                    </div>
-                                </td>
-                            }
-                        </tr>
-                    }
+        .call-button {
+            display: block;
+            width: 200px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            cursor: pointer;
+        }
 
-                </tbody>
+            .call-button:hover {
+                background-color: #0056b3;
+            }
 
-            </table>
+        .delivery-section {
+            background-color: #dff0d8;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
 
+            .delivery-section p {
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Buy Used or New Laptop</h1>
+        <!-- Laptop Images -->
+        <div class="text-center mb-4">
+            <img src="https://s3no.cashify.in/estore/cfa36187d62e44ffbafebafda34b6de3.webp?p=default&s=lg" alt="Used Laptop" class="img-fluid">
+            <img src="https://s3no.cashify.in/estore/4010e5ba47b642d8886c32b43380c5ac.webp?p=default&s=lg" alt="New Laptop" class="img-fluid">
         </div>
 
+        <!-- Call Section -->
+        <div class="call-section">
+            <p>Call now to find out the best deals on both used and new laptops!</p>
+            <p>Our expert team is ready to assist you in choosing the perfect laptop.</p>
+            <button class="call-button" onclick="showPhoneNumber()">Call Us</button>
+        </div>
+
+        <!-- Delivery Section -->
+        <div class="delivery-section">
+            <p>Enjoy free delivery on all orders!</p>
+            <p>Get your laptop delivered to your doorstep with no extra cost.</p>
+        </div>
     </div>
 
-</div>
-<hr class="my-5" />
+    <!-- Phone Number Modal -->
+    <div class="modal fade" id="phoneNumberModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Call Us</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Phone Number: <strong>+91 9702547707</strong></p>
+                    <p>Would you like to dial the number from your phone app?</p>
+                </div>
+                <div class="modal-footer">
+                    <a href="tel:+919702547707" class="btn btn-primary">Dial</a>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript for Modal -->
+    <script>
+        function showPhoneNumber() {
+            $('#phoneNumberModal').modal('show');
+        }
+    </script>
+
+    <!-- jQuery and Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+   
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

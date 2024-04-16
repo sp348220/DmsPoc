@@ -18,7 +18,7 @@ namespace DocumentManagementSystem.DataAccess.Repositories
 
         public Repository(DocumentContext context)
         {
-            _context = context;
+            _context = context;                   
         }
 
         public async Task<List<T>> GetAllAsync()
@@ -49,7 +49,7 @@ namespace DocumentManagementSystem.DataAccess.Repositories
         public async Task<T> GetByFilterAsync(Expression<Func<T, bool>> filter, bool asNoTracking = false)
         {
             return !asNoTracking ? await _context.Set<T>().AsNoTracking().SingleOrDefaultAsync(filter) :
-                await _context.Set<T>().SingleOrDefaultAsync(filter);
+            await _context.Set<T>().SingleOrDefaultAsync(filter);
         }
 
         public IQueryable<T> GetQuery()
@@ -65,6 +65,9 @@ namespace DocumentManagementSystem.DataAccess.Repositories
         {
            await _context.Set<T>().AddAsync(entity);
         }
+
+
+
 
         public void Update(T entity, T unchanged)
         {

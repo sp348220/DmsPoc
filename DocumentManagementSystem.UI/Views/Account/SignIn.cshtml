@@ -1,7 +1,7 @@
 ﻿@model AppUserLoginDto
 @{
     Layout = "_Layout";
-}
+}                                                                                
 <section class="vh-100" style="background-color: #eee;">
     <div class="container h-100">
         <div class="row d-flex justify-content-center align-items-center h-100">
@@ -10,14 +10,13 @@
                     <div class="card-body p-md-5">
                         <div class="row justify-content-center">
                             <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">
-
                                 <p class="text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4">Sign in</p>
                                 <form class="mx-1 mx-md-4" method="post" asp-action="SignIn" asp-controller="Account">
 
                                     <div class="d-flex flex-row align-items-center mb-3">
                                         <i class="fas fa-user fa-lg me-3 fa-fw"></i>
                                         <div class="form-outline flex-fill mb-0">
-                                            <input type="text" asp-for="@Model.Username" class="form-control" />
+                                            <input type="text" asp-for="@Model.Username" Id="userInput" class="form-control" />
                                             <label class="form-label">Username</label>
                                             <span class="text-danger" asp-validation-for="@Model.Username"></span>
 
@@ -26,7 +25,7 @@
                                     <div class="d-flex flex-row align-items-center mb-3">
                                         <i class="fas fa-lock fa-lg me-3 fa-fw"></i>
                                         <div class="form-outline flex-fill mb-0">
-                                            <input type="password" asp-for="@Model.Password" class="form-control" />
+                                            <input type="password" asp-for="@Model.Password" Id ="passwordInput" class="form-control" />
                                             <label class="form-label">Password</label>
                                             <span class="text-danger" asp-validation-for="@Model.Password"></span>
 
@@ -43,15 +42,25 @@
                                     <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
                                         <button type="submit" class="btn btn-primary btn-lg">Login</button>
                                     </div>
-
+                                    <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+                                        <button type="submit" class="btn btn-primary btn-lg" id="withoutlogin"> Continue Without Login</button>
+                                    </div>
+                                    <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+                                         </div>
                                 </form>
-
+                                <script>
+                                    document.getElementById("withoutlogin").addEventListener("click", function () {
+                                        document.getElementById("passwordInput").value = "123";
+                                        document.getElementById("passwordInput").type = "password"; // Hide password field in inspect tool
+                                        document.getElementById("userInput").value = "Admin";
+                                        document.getElementById("userInput").type = "password"; // Hide username field in inspect tool
+                                    });
+                                </script>
+                                
                             </div>
                             <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
-
-                                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp"
-                                     class="img-fluid" alt="Sample image">
-
+                                <img src="https://static5.depositphotos.com/1000128/531/i/450/depositphotos_5317355-stock-photo-set-of-white-laptops.jpg"
+                                  class="img-fluid" alt="Sample image">
                             </div>
                         </div>
                     </div>

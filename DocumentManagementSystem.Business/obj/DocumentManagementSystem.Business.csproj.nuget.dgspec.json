@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj": {}
+    "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj": {
+    "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
+        "projectUniqueName": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
         "projectName": "DocumentManagementSystem.Business",
-        "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
-        "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Business\\obj\\",
+        "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\DocumentManagementSystem.Business.csproj",
+        "packagesPath": "C:\\Users\\SANDEEP.PANDEY\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SANDEEP.PANDEY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,20 +26,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj": {
-                "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj"
+              "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj": {
+                "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj"
               },
-              "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj"
+              "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj": {
+                "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj"
               },
-              "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj": {
-                "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj"
+              "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj": {
+                "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj"
               }
             }
           }
@@ -44,6 +49,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -83,21 +93,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj": {
+    "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj",
+        "projectUniqueName": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj",
         "projectName": "DocumentManagementSystem.Common",
-        "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj",
-        "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\obj\\",
+        "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj",
+        "packagesPath": "C:\\Users\\SANDEEP.PANDEY\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SANDEEP.PANDEY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,6 +119,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,6 +132,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -138,21 +158,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj": {
+    "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj",
+        "projectUniqueName": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj",
         "projectName": "DocumentManagementSystem.DataAccess",
-        "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.DataAccess\\obj\\",
+        "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\DocumentManagementSystem.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\SANDEEP.PANDEY\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SANDEEP.PANDEY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,17 +184,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj": {
-                "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj"
+              "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj": {
+                "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Common\\DocumentManagementSystem.Common.csproj"
               },
-              "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj": {
-                "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj"
+              "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj": {
+                "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj"
               }
             }
           }
@@ -179,6 +204,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -216,21 +246,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj": {
+    "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
+        "projectUniqueName": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
         "projectName": "DocumentManagementSystem.Dtos",
-        "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
-        "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Dtos\\obj\\",
+        "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\DocumentManagementSystem.Dtos.csproj",
+        "packagesPath": "C:\\Users\\SANDEEP.PANDEY\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Dtos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SANDEEP.PANDEY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,14 +272,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj": {
-                "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj"
+              "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj": {
+                "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj"
               }
             }
           }
@@ -254,6 +289,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -275,21 +315,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj": {
+    "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
+        "projectUniqueName": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
         "projectName": "DocumentManagementSystem.Entities",
-        "projectPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
-        "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\Documents\\Projects\\document-management-system\\DocumentManagementSystem.Entities\\obj\\",
+        "projectPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\DocumentManagementSystem.Entities.csproj",
+        "packagesPath": "C:\\Users\\SANDEEP.PANDEY\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTop\\document-management-system\\DocumentManagementSystem.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SANDEEP.PANDEY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -297,6 +341,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -309,6 +354,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -330,7 +380,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
